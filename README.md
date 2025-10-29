@@ -11,9 +11,11 @@ Które regiony mają najwiekszą/najniższą sprzedaż i zysk?
 
 Użyte narzędzia:
 Python(pandas,matplotlib)
-SQL(PostgreSQL)
+SQL(SQLite)
+LookerStudio
 Git/Github
 
 Struktura projektu:
 Kod znajdziemy w folderze src/analiza.py
+
 
