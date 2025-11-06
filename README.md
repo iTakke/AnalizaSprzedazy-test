@@ -1,30 +1,19 @@
-Tytuł
+SALES ANALYSIS
+---
+Goal:
 
-ANALIZA SPRZEDAZY
-___
-Cel:
+	•	Which products generate the highest profit, and which are unprofitable?
+	•	What are the sales trends?
+	•	Is the company achieving its profit targets?
+	•	Which customer segment is the most profitable?
+	•	Which regions have the highest/lowest sales and profit?
 
-Które produkty generują największy zysk, a które są nierentowne?
+Tools used:
 
-Jakie są trendy sprzedaży?
+	•	Python (pandas, matplotlib)
+	•	SQL (SQLite)
+	•	Looker Studio
+	•	Git/GitHub
 
-Czy firma osiąga swoje zyski?
-
-Jaki segment klientów jest najbardziej dochodowy?
-
-Które regiony mają najwiekszą/najniższą sprzedaż i zysk?
-___
-Użyte narzędzia:
-
-Python(pandas,matplotlib)
-
-SQL(SQLite)
-
-LookerStudio
-
-Git/Github
-___
-Struktura projektu:
-Kod znajdziemy w folderze src/analiza.py
-
-
+Project structure:
+The code can be found in the folder: src/analiza.py
