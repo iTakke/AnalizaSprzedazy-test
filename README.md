@@ -10,8 +10,8 @@ Goal:
 
 Tools used:
 
-	•	Python (pandas, matplotlib)
-	•	SQL (SQLite)
+	•	pycharm - Python (pandas, matplotlib)
+	•	dbeaver - SQL (SQLite)
 	•	Looker Studio
 	•	Git/GitHub
 
